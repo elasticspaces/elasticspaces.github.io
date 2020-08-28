@@ -1,4 +1,4 @@
-body {
+.body {
 	font-size: 16px;
 	font-family: 'Roboto Mono', monospace;
   padding-top: 50px;
@@ -61,4 +61,10 @@ table.overview {
 }
 .container.outdated {
 	margin-top: 5.5em;
+}
+
+
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 40px;
+    margin-bottom: 10px;
 }
