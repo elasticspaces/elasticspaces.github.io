@@ -1,5 +1,5 @@
 ---
-layout: 2020s_w4995
+layout: layout_2020
 ---
 
 <svg id="d3banner"></svg>

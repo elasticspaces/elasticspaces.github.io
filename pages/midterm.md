@@ -1,5 +1,5 @@
 ---
-layout: 2020s_w4995
+layout: layout_2020
 ---
 
 # Online Midterm
