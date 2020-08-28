@@ -4,7 +4,7 @@ layout: layout_2020
 
 <svg id="d3banner"></svg>
 
-# Introduction to Data Visualization
+# Elastic Spaces
 
 <br>
 _COMS W {{ layout.courseno }} (3 pts)_ <br>
@@ -43,10 +43,5 @@ Students should have experience in JavaScript programming and web development, a
 | ~~4/28~~<br>5/5 | _Final Project Showcase 6–8pm_ <!-- <br>@ Brown Institute, Pulitzer Hall_<!-- <br>([slides](https://docs.google.com/presentation/d/1EgzqSZ2qFvdJEYSd5SVniElfcj6WPbjTOEiowcf3ntE/edit?usp=sharing)) --> ||| [A5.3 Lightning Talk](a5.html) DUE |
 | 5/11 MON | ||| [A5.4 Final Visualization](a5.html) DUE +<br>[A5.5 Final Documentation](a5.html) DUE |
 
-## Past semesters
-
-- [Fall 2019](/2019f_w4995/)
-- [Spring 2019](/2019s_w4995)
-- [Fall 2018](/2018f_w4995)
 
 {% include datavis_d3banner.html d3colorscheme="RdPu" %}{%comment%}PuBuGn{%endcomment%}
