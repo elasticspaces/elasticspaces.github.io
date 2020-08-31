@@ -8,18 +8,16 @@ layout: layout_2020
 
 <br>
 _COMS W {{ layout.courseno }} (3 pts)_ <br>
-_Instructor:_ Agnes Chang (ac3882), office hours by appt. <br>
-_IAs:_ Emma Lu (ell2140; [Mon 3-5p](https://calendar.google.com/calendar/selfsched?sstoken=UUlMMTVhN1dWRS12fGRlZmF1bHR8NmJlNTBlZjJlMmEwYWNjYWQ5YWUzN2FkMmU5MTY2ZTg)), Irene Koo (hk2919; [Wed 2-4p](http://bit.ly/irene_OH)) <br>
-_Class Time:_ Tues. 6:10-8pm <br>
-_Room:_ 301M Fayerweather<br>
-[Class Slack](https://columbiaviz-sp20.slack.com) <br>
-[Course Feedback Form](https://forms.gle/sJne6fxphDzFBJN38)
+_Instructors:_ Daniel Leithinger, office hours by appt., Richard The, office hours by appt. <br>
+
+_Class Time:_ Thursday 2:20 PM MT -	04:50 PM MT / 4:20 PM EST - 6:50 PM EST <br>
+[Class Zoom]() <br>
+[Class Slack]() <br>
+[Course Feedback Form]()
 
 ## Overview
 
-This course is a hands-on introduction to design principles, theory, and software techniques for visualizing data. Classes will be a combination of lecture, design studio, and lab. Through readings, design critique and code assignments, students will learn how visual representations can help in the understanding of complex data, and how to design and evaluate visualizations for the purpose of analysis or communication. Students will develop skills in processing data, and building interactive visualizations using D3. Topics include visual perception, exploratory data analysis, task analysis, graphic design, narrative, etc.
-
-Students should have experience in JavaScript programming and web development, as well as familiarity with databases and data formats. You should be comfortable picking up new programming tools on your own. Experience in Python or R for data processing is helpful but not required.
+The global pandemic of 2020 is a stark reminder of the essential human need to connect with each other, in person or remotely. But flat screens cannot replace the intimacy of touch and the feeling of presence when sharing a room. To challenge the current status quo, this studio course sets out to invent radically new interfaces for remote presence. We examine current state-of-the-art tools for collaboration, critically engage with a theory of communication channels, and learn how to design hard- and software interfaces that connect people over a distance. Could we invent interfaces for remote presence that are calm, or immersive, or poetic, artistic, intimate, private or extremely public? Inspired by Gianni Colombo’s concept of "elastic space", we will technologically stretch environments across distances, even through the course format. This is a collaborative class that is taught remotely between Parsons in New York and Atlas Institute at CU Boulder in Colorado. Students will collaborate in remote teams and build multiple working interfaces that communicate across time and space.
 
 ## Schedule
 
