@@ -7,6 +7,10 @@ body {
 .navbar-nav {
 	font-size: 14px;
 }
+
+a{
+	color: #00F;
+}
 footer {
 	font-size: 14px;
   padding-top: 30px;
