@@ -25,11 +25,11 @@ The global pandemic of 2020 is a stark reminder of the essential human need to c
 ||Class| Reading Due | Assigned | Assignment Due |
 |--|--|--|--|--|
 | 8/27 | **Boulder Pre-Course Meeting** | | | |
-| 9/3 | **Hack the Remote** | | | |
-| 9/10 | **Project 1: Protocol** | | | |
-| 9/17 | **Project 1: Protocol** | | | |
-| 9/24 | **Project 1: Protocol** | | | |
-| 10/1 | **Project 1: Protocol** | | | |
+| 9/3 | **Hack the Remote** | |Hack the Remote | |
+| 9/10 | **Project 1: Protocol** |Protocol – Alexander Galloway | Protocol Part I | |
+| 9/17 | **Project 1: Protocol** | |  Protocol Part II | |
+| 9/24 | **Project 1: Protocol** | | Protocol Part III| |
+| 10/1 | **Project 1: Protocol** | |  Protocol Final | |
 | 10/8 | **Project 2: Remote Senses** | | | |
 | 10/15 | **Project 2: Remote Senses** | | | |
 | 10/22 | **Project 2: Remote Senses** | | | |
