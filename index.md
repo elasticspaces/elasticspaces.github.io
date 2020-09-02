@@ -29,24 +29,18 @@ The global pandemic of 2020 is a stark reminder of the essential human need to c
 | 9/10 | **Project 1: Protocol** |[Protocol – Alexander Galloway](https://drive.google.com/file/d/1RRuc6sDgTbcmZSIAXo71ynRJ5iz7A5_w/view?usp=sharing) | Protocol Part I |
 | 9/17 | **Project 1: Protocol** | [Alone Together – Sherry Turkle](https://drive.google.com/file/d/1TSfV57eJJPVYw4dRlmRrQZE4f3U_NYAP/view?usp=sharing) |  Protocol Part II |
 | 9/24 | **Project 1: Protocol** |[For Certain Tasks, the Cortex Still Beats the CPU	Clive Thompson](https://www.wired.com/2007/06/ff-humancomp/) | Protocol Part III|
-| 10/1 | **Project 1: Protocol** | |  Protocol Final |
+| 10/1 | **Project 1: Protocol** | --|  Protocol Final |
 | 10/8 | **Project 2: Remote Senses** | [See yourself Sensing - Madeline Schwartzman](https://drive.google.com/file/d/17B2jhGivurpM3n0A9JGZoN1RsMLm5elv/view?usp=sharing)  |Remote Senses Part I  |
 | 10/15 | **Project 2: Remote Senses** | [Tangible Interfaces for Remote Collaboration and Communication.](https://trackr-media.tangiblemedia.org/publishedmedia/Papers/315-Tangible%20Interfaces%20for%20Remote/Published/PDF)|Remote Senses Part II |
 | 10/22 | **Project 2: Remote Senses** | |Remote Senses Part III  |
-| 10/29 | **Project 2: Remote Senses** | |Remote Senses Final |
+| 10/29 | **Project 2: Remote Senses** |-- |Remote Senses Final |
 | 11/5 | **Project 3: Elastic Spaces** | | Elastic Spaces Part I |
 | 11/12 | **Project 3: Elastic Spaces** | |  Elastic Spaces Part II|
 | 11/19 | **Project 3: Elastic Spaces** | | Elastic Spaces Part III|
 | 11/26 | _Fall Break, no class._|--|--|
-| 12/3 | **Project 3: Elastic Spaces** | | Elastic Spaces Final|
+| 12/3 | **Project 3: Elastic Spaces** |-- | Elastic Spaces Final|
 | 12/10 |**Document**|--|Final documentation|
 | 12/17 |--|--|--|
-
-
-<!--
-| 1/21 | **Introduction:** why visualize? schedule and expectations. <br>([slides](https://docs.google.com/presentation/d/1_ji4tnETuWSqdNlUvFIUaRYJ9kkgUHWZvPNX8BnZMzA/edit?usp=sharing))<br>([APPLY TO ENROLL by Friday](a0.html)) |  | [A2.1 Vis Design: divergence](a2.html) assigned| |
-| 1/28 | **Designing**: form vs. function, generating ideas, iterating, and critique.<br>([slides](https://docs.google.com/presentation/d/1yHjRatAzQeSdUgCsC0u8wsr5iq5tIg9l-LlfbxX5zRg/edit?usp=sharing))<br>([quiz](https://forms.gle/A7haK8czcKVyTAzf9)) | • Visual Explanations, [Chp. 2 Excerpt](../files/readings/Tufte_VisualExplanations-Shuttle-Excerpt.pdf), by Tufte, E. 2007.<br>• [How to be creative](http://faculty.washington.edu/ajko/books/design-methods/how-to-be-creative.html) & [How to be critical](http://faculty.washington.edu/ajko/books/design-methods/how-to-be-critical.html), Amy Ko. 2017.<br>• Lateral Thinking, [Excerpts](../files/readings/debono_excerpts.pdf), Edward deBono, 1967.<br>• _Optional:_ [The Architecture of a Data Visualization](https://medium.com/accurat-studio/the-architecture-of-a-data-visualization-470b807799b4), Accurat Studio. |[A2.2 Vis Design: revisions](a2.html) assigned| |
--->
 
 
 
