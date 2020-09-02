@@ -11,7 +11,7 @@ _COMS W {{ layout.courseno }} (3 pts)_ <br>
 _Instructors:_ Daniel Leithinger, office hours by appt., Richard The, office hours by appt. <br>
 
 _Class Time:_ Thursday 2:20 PM MT -	04:50 PM MT / 4:20 PM EST - 6:50 PM EST <br>
-[Class Zoom]() <br>
+[Class Zoom](https://newschool.zoom.us/j/94390523430?pwd=Q0xXeDh2NldCT1VzR1hPYjgrUkQzdz09) <br>
 [Class Slack]() <br>
 [Course Feedback Form]()
 
