@@ -2,7 +2,6 @@
 layout: layout_2020
 ---
 
-<svg id="d3banner"></svg>
 
 # Elastic Spaces
 
@@ -41,6 +40,3 @@ The global pandemic of 2020 is a stark reminder of the essential human need to c
 | 12/10 |**Document**|--|Final documentation|
 | 12/17 |--|--|--|
 
-
-
-{% include datavis_d3banner.html d3colorscheme="RdPu" %}{%comment%}PuBuGn{%endcomment%}
