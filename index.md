@@ -39,7 +39,7 @@ The global pandemic of 2020 is a stark reminder of the essential human need to c
 | 11/19 | **Project 3: Elastic Spaces** | | Elastic Spaces Part III|
 | 11/26 | _Fall Break, no class._|--|--|
 | 12/3 | **Project 3: Elastic Spaces** | | Elastic Spaces Final|
-| 12/10 |**Document**|--|--|
+| 12/10 |**Document**|--|Final documentation|
 | 12/17 |--|--|--|
 
 
