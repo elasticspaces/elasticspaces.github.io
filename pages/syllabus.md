@@ -4,45 +4,24 @@ layout: layout_2020
 
 # Syllabus
 
-This project based-course will break the boundaries of current screen-based software, by linking physical objects and environments.
 The global pandemic of 2020 is a stark reminder of the essential human need to connect with each other, in person or remotely. But flat screens cannot replace the intimacy of touch and the feeling of presence when sharing a room. To challenge the current status quo, this studio course sets out to invent radically new interfaces for remote presence. We examine current state-of-the-art tools for collaboration, critically engage with a theory of communication channels, and learn how to design hard- and software interfaces that connect people over a distance. Could we invent interfaces for remote presence that are calm, or immersive, or poetic, artistic, intimate, private or extremely public?
-Inspired by Gianni Colombo’s concept of "elastic space", we will technologically stretch environments across distances, even through the course format. This is a collaborative class that is taught remotely between Parsons in New York and Atlas Institute at CU Boulder in Colorado. 15 students on each side will collaborate remotely and will build multiple working interfaces that communicate across time and space.
+
+Inspired by Gianni Colombo’s concept of "elastic space", we will technologically stretch environments across distances, even through the course format. This is a collaborative class that is taught remotely between Parsons in New York and Atlas Institute at CU Boulder in Colorado. Teams of students will collaborate remotely to build multiple working interfaces that communicate across time and space.
 
 ## Course Objectives
 
 Students who successfully complete this course will achieve the following:
 
-Critical Thinking & Theory / History
+Critical Thinking & Theory / History:
 * Demonstrate advanced knowledge of, and be able to critically analyze form, dynamics and interactivity of remote collaboration systems.
 * Understand different ways of communication and how they can exist as interfaces: Synchronous and asynchronous, one to one, one to many, many to many.
 
-Design/Creative
+Design/Creative:
 * Create documentation using photography, video and diagrams to communicate these new concepts clearly to a broader audience.
-* Successfully work in distributed teams across locations.
+* Successfully work in distributed teams across remote locations.
 
-Technical
+Technical:
 * Build working prototypes of novel remote copresence systems that work across at least two locations.
-
-## Assignments
-
-0. **Clocks (0%)**: Apply for this class by completing [A0](a0.html).
-1. **Sparks Presentation (5%)**: prepare a 7min. slideshow presentation on a data visualization practitioner or team that is inspiring to you.
-2. **Visualization Design (10%)**: design 10 divergent representations for the US Census data set and provide a rigorous rationale for your design choices. Present for design critique in class.
-3.  **Exploratory Data Analysis (10%)**: identify a dataset of interest and perform an exploratory analysis to understand the shape & structure of the data, investigate initial questions, and develop preliminary insights & hypotheses. Present a report on your findings.
-4.  **Interactive Visualization (20%)**: build a visualization that enables interactive exploration along at least three dimensions using a dataset of your own choosing and publish it on the web.
-5.  **Midterm Exam (10%):** individual closed book exam, for 90 min. during class session. Comprises multiple-choice and written essay questions.
-6.  **Final Project (30%)**: build a web-based interactive visualization that allows you to answer questions about a topic of your own choosing. You will acquire the data, design your visualization, implement it using D3, and evaluate the results.
-7.  **Reading Quizzes (7.5%)**: expect a quiz at beginning of class most weeks; 2~4 multiple-choice questions, each covering one of the central concepts in a required reading.
-8.  **Class Participation (7.5%)**: actively engages in class and online (Slack) in critique, analysis, and assisting peers.
-
-## Expectations
-
-- **Pre-requisites**: 
-- **Group Work**: All assignments will be in groups of 2 unless otherwise noted. In general, I do not anticipate that the grades for individual group members will be different. However, we reserve the right to assign different grades to each group member based on [peer assessments](https://goo.gl/forms/RJIIRFlBHWS9nNkx2). Your assignments should all be submitted [online](https://goo.gl/forms/8PWeUCxNT3dHDmrn2) at 11:59pm on the due date (usually the Wednesday before class.)
-<!-- - **Quizzes**: There is a 5min. quiz at beginning of each class on reading from the previous week. It's not meant to trip anyone over; it's merely to help make sure you did the reading, which helps all of us cover more ground in class. If you expect to miss class, meet IAs at office hours the week *before*, or work on extra credit. Cheating on quizzes is an automatic zero. -->
-- **Readings**: You will be assigned to read diverse writing styles spanning academic publications, textbooks, as well as design essays. This is by intention. If it is your first time reading a particular style of writing, you will find it difficult and obtuse (hint: allocate your time accordingly); however, my goal is that by the end of this class you will be comfortable reading and summarizing key points across disciplines. Readings will be discussed in a shared document, and your participation will affect the final grade.
-- **Copying**: You are encouraged to copy code, as long as you have the original author's permission and you note your source. Similarly, note any sources of inspiration. Your assignments will be graded primarily on original concept and design, rather than novel implementation. That said, your code should always yield a great user experience—it should work correctly without specific instructions for your users (eg. graders), and should be performant on major platforms (Chrome, Edge, Firefox and Safari.) 
-- **Lateness**: Assignments: -25% missing writeup/submission, -20% incomplete submission/late submission (including missing submission resubmitted), -15% incomplete submission resubmitted, 0% after 7 days late. Each student is allowed *1 late pass for a 48-hour extension* per assignment per due date (i.e. you may only use it on one assignment section if multiple assignments are due on the same day.) No exceptions unless you have a medical note. Quizzes can be made up for full credit if we receive prior notice with good reason or subsequent medical note. Email instructor to submit a medical note/reason, email IAs to request use of your late pass. All other absences cannot be made up.
 
 ## Grading Rubic
 - Attendance & Class Participation (10%)
@@ -51,6 +30,14 @@ Technical
 - Project 2: Protocol (20%)
 - Project 3: Remote Senses (20%)
 - Project 4: Elastic Spaces (30%)
+
+## Expectations
+
+- **Group Work**: All assignments will be in groups of 2 unless otherwise noted. In general, I do not anticipate that the grades for individual group members will be different. However, we reserve the right to assign different grades to each group member based on [peer assessments](https://goo.gl/forms/RJIIRFlBHWS9nNkx2). Your assignments should all be submitted [online](https://goo.gl/forms/8PWeUCxNT3dHDmrn2) at 11:59pm on the due date (usually the Wednesday before class.)
+<!-- - **Quizzes**: There is a 5min. quiz at beginning of each class on reading from the previous week. It's not meant to trip anyone over; it's merely to help make sure you did the reading, which helps all of us cover more ground in class. If you expect to miss class, meet IAs at office hours the week *before*, or work on extra credit. Cheating on quizzes is an automatic zero. -->
+- **Readings**: You will be assigned to read diverse writing styles spanning academic publications, textbooks, as well as design essays. This is by intention. If it is your first time reading a particular style of writing, you will find it difficult and obtuse (hint: allocate your time accordingly); however, my goal is that by the end of this class you will be comfortable reading and summarizing key points across disciplines. Readings will be discussed in a shared document, and your participation will affect the final grade.
+- **Copying**: You are encouraged to copy code, as long as you have the original author's permission and you note your source. Similarly, note any sources of inspiration. Your assignments will be graded primarily on original concept and design, rather than novel implementation. That said, your code should always yield a great user experience—it should work correctly without specific instructions for your users (eg. graders), and should be performant on major platforms (Chrome, Edge, Firefox and Safari.) 
+- **Lateness**: Assignments: -25% missing writeup/submission, -20% incomplete submission/late submission (including missing submission resubmitted), -15% incomplete submission resubmitted, 0% after 7 days late. Each student is allowed *1 late pass for a 48-hour extension* per assignment per due date (i.e. you may only use it on one assignment section if multiple assignments are due on the same day.) No exceptions unless you have a medical note. Quizzes can be made up for full credit if we receive prior notice with good reason or subsequent medical note. Email instructor to submit a medical note/reason, email IAs to request use of your late pass. All other absences cannot be made up.
 
 ## Caveat Emptor
 
