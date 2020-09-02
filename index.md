@@ -3,6 +3,7 @@ layout: layout_2020
 ---
 
 
+{{ "/files/images/FSP0026.jpg" | relative_url }}"
 # Elastic Spaces
 
 <br>
@@ -39,4 +40,3 @@ The global pandemic of 2020 is a stark reminder of the essential human need to c
 | 12/3 | **Project 3: Elastic Spaces** |-- | Elastic Spaces Final|
 | 12/10 |**Document**|--|Final documentation|
 | 12/17 |--|--|--|
-
