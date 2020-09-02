@@ -2,8 +2,9 @@
 layout: layout_2020
 ---
 
+![useful image]({{ site.url }}//files/images/FSP0026.jpg)
+Gianni Colombo - Elastic Space
 
-{{ "/files/images/FSP0026.jpg" | relative_url }}"
 # Elastic Spaces
 
 <br>
