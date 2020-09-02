@@ -26,8 +26,7 @@ The global pandemic of 2020 is a stark reminder of the essential human need to c
 |--|--|--|--|--|
 | 8/27 | **Boulder Pre-Course Meeting** | | | |
 | 9/3 | **Hack the Remote** | |Hack the Remote | |
-| 9/10 | **Project 1: Protocol** |([Protocol – Alexander Galloway] 
-(https://drive.google.com/file/d/1RRuc6sDgTbcmZSIAXo71ynRJ5iz7A5_w/view?usp=sharing)) | Protocol Part I | |
+| 9/10 | **Project 1: Protocol** |[Protocol – Alexander Galloway](https://drive.google.com/file/d/1RRuc6sDgTbcmZSIAXo71ynRJ5iz7A5_w/view?usp=sharing) | Protocol Part I | |
 | 9/17 | **Project 1: Protocol** |Alone Together – Sherry Turkle |  Protocol Part II | |
 | 9/24 | **Project 1: Protocol** |For Certain Tasks, the Cortex Still Beats the CPU	Clive Thompson | Protocol Part III| |
 | 10/1 | **Project 1: Protocol** | |  Protocol Final | |
