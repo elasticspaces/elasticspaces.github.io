@@ -22,25 +22,25 @@ The global pandemic of 2020 is a stark reminder of the essential human need to c
 ## Schedule
 
 {: .overview .table .table-striped :}
-||Class| Reading Due | Assigned | Assignment Due |
-|--|--|--|--|--|
-| 8/27 | **Boulder Pre-Course Meeting** | | | |
-| 9/3 | **Hack the Remote** | |Hack the Remote | |
-| 9/10 | **Project 1: Protocol** |[Protocol – Alexander Galloway](https://drive.google.com/file/d/1RRuc6sDgTbcmZSIAXo71ynRJ5iz7A5_w/view?usp=sharing) | Protocol Part I | |
-| 9/17 | **Project 1: Protocol** | [Alone Together – Sherry Turkle](https://drive.google.com/file/d/1TSfV57eJJPVYw4dRlmRrQZE4f3U_NYAP/view?usp=sharing) |  Protocol Part II | |
-| 9/24 | **Project 1: Protocol** |[For Certain Tasks, the Cortex Still Beats the CPU	Clive Thompson](https://www.wired.com/2007/06/ff-humancomp/) | Protocol Part III| |
-| 10/1 | **Project 1: Protocol** | |  Protocol Final | |
-| 10/8 | **Project 2: Remote Senses** | [See yourself Sensing - Madeline Schwartzman](https://drive.google.com/file/d/17B2jhGivurpM3n0A9JGZoN1RsMLm5elv/view?usp=sharing)  | | |
-| 10/15 | **Project 2: Remote Senses** | [Tangible Interfaces for Remote Collaboration and Communication.](https://trackr-media.tangiblemedia.org/publishedmedia/Papers/315-Tangible%20Interfaces%20for%20Remote/Published/PDF)| | |
-| 10/22 | **Project 2: Remote Senses** | | | |
-| 10/29 | **Project 2: Remote Senses** | | | |
-| 11/5 | **Project 3: Elastic Spaces** | | | |
-| 11/12 | **Project 3: Elastic Spaces** | | | |
-| 11/19 | **Project 3: Elastic Spaces** | | | |
-| 11/26 | _Fall Break, no class._|--|--|--|
-| 12/3 | **Project 3: Elastic Spaces** | | | |
-| 12/10 |**Document**|--|--|--|
-| 12/17 |--|--|--|--|
+||Class| Reading Due | Assignment Due |
+|--|--|--|--|
+| 8/27 | **Boulder Pre-Course Meeting** | | |
+| 9/3 | **Hack the Remote** | |Hack the Remote |
+| 9/10 | **Project 1: Protocol** |[Protocol – Alexander Galloway](https://drive.google.com/file/d/1RRuc6sDgTbcmZSIAXo71ynRJ5iz7A5_w/view?usp=sharing) | Protocol Part I |
+| 9/17 | **Project 1: Protocol** | [Alone Together – Sherry Turkle](https://drive.google.com/file/d/1TSfV57eJJPVYw4dRlmRrQZE4f3U_NYAP/view?usp=sharing) |  Protocol Part II |
+| 9/24 | **Project 1: Protocol** |[For Certain Tasks, the Cortex Still Beats the CPU	Clive Thompson](https://www.wired.com/2007/06/ff-humancomp/) | Protocol Part III|
+| 10/1 | **Project 1: Protocol** | |  Protocol Final |
+| 10/8 | **Project 2: Remote Senses** | [See yourself Sensing - Madeline Schwartzman](https://drive.google.com/file/d/17B2jhGivurpM3n0A9JGZoN1RsMLm5elv/view?usp=sharing)  | |
+| 10/15 | **Project 2: Remote Senses** | [Tangible Interfaces for Remote Collaboration and Communication.](https://trackr-media.tangiblemedia.org/publishedmedia/Papers/315-Tangible%20Interfaces%20for%20Remote/Published/PDF)| |
+| 10/22 | **Project 2: Remote Senses** | | |
+| 10/29 | **Project 2: Remote Senses** | | |
+| 11/5 | **Project 3: Elastic Spaces** | | |
+| 11/12 | **Project 3: Elastic Spaces** | | |
+| 11/19 | **Project 3: Elastic Spaces** | | |
+| 11/26 | _Fall Break, no class._|--|--|
+| 12/3 | **Project 3: Elastic Spaces** | | |
+| 12/10 |**Document**|--|--|
+| 12/17 |--|--|--|
 
 
 <!--
