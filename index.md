@@ -2,7 +2,7 @@
 layout: layout_2020
 ---
 
-![useful image]({{ site.url }}//files/images/FSP0026.jpg)
+![useful image](/files/images/FSP0026.jpg)
 Gianni Colombo - Elastic Space
 
 # Elastic Spaces
