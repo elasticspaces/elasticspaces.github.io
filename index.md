@@ -31,7 +31,7 @@ The global pandemic of 2020 is a stark reminder of the essential human need to c
 | 9/24 | **Project 1: Protocol** |[For Certain Tasks, the Cortex Still Beats the CPU	Clive Thompson](https://www.wired.com/2007/06/ff-humancomp/) | Protocol Part III| |
 | 10/1 | **Project 1: Protocol** | |  Protocol Final | |
 | 10/8 | **Project 2: Remote Senses** | [See yourself Sensing - Madeline Schwartzman](https://drive.google.com/file/d/17B2jhGivurpM3n0A9JGZoN1RsMLm5elv/view?usp=sharing)  | | |
-| 10/15 | **Project 2: Remote Senses** | | | |
+| 10/15 | **Project 2: Remote Senses** | [Tangible Interfaces for Remote Collaboration and Communication.](https://trackr-media.tangiblemedia.org/publishedmedia/Papers/315-Tangible%20Interfaces%20for%20Remote/Published/PDF)| | |
 | 10/22 | **Project 2: Remote Senses** | | | |
 | 10/29 | **Project 2: Remote Senses** | | | |
 | 11/5 | **Project 3: Elastic Spaces** | | | |
