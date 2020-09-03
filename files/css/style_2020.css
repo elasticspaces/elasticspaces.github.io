@@ -22,17 +22,17 @@ table.overview {
 }
 /***** Navbar ******/
 .navbar-inverse {
-  background-color: #fff;
+  background-color: #CBE5F7;
   border-color: #808080;
 }
 .navbar-inverse .navbar-toggle {
-	background-color: #fff;
+	background-color: #CBE5F7;
 }
 .navbar-inverse .navbar-toggle .icon-bar {
 	background-color: #000;
 }
 .navbar-inverse .navbar-toggle:hover .icon-bar {
-	background-color: #fff;
+	background-color: #CBE5F7;
 }
 .navbar-inverse .navbar-brand {
   color: #000;
