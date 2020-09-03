@@ -76,6 +76,9 @@ table.overview {
 .table-striped>tbody>tr:nth-of-type(odd) {
     background-color: #DFECF4;
 }
+.dropdown-menu {
+	background-color: #CBE5F7;
+}
 
 h1, h2, h3 {
     margin-top: 50px;
