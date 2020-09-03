@@ -3,7 +3,7 @@ body {
 	font-family: 'Roboto Mono', monospace;
   padding-top: 50px;
   padding-bottom: 20px;
-	background-color: #B5D9F4;
+	background-color: #CBE5F7;
 }
 .navbar-nav {
 	font-size: 14px;
@@ -73,6 +73,9 @@ table.overview {
 	max-width:100%;
 }
 
+.table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: #A5CFEF;
+}
 
 h1, h2, h3 {
     margin-top: 50px;
