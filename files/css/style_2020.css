@@ -79,7 +79,7 @@ table.overview {
 .dropdown-menu {
 	background-color: #CBE5F7;
 }
-td{
+.table-striped>tbody>tr>td{
 	border: 0;
 }
 
