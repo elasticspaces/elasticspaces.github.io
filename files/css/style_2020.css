@@ -67,6 +67,10 @@ table.overview {
 	margin-top: 5.5em;
 }
 
+.container img{
+	object-fit: cover;
+}
+
 
 h1, h2, h3 {
     margin-top: 50px;
