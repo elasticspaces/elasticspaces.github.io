@@ -8,11 +8,11 @@ Gianni Colombo - Elastic Space
 # Elastic Spaces
 
 <br>
-_Instructors:_ Professor Daniel Leithinger, office hours by appt.<br> Professor Richard The, office hours by appt. <br>
+_Instructors:_ Professor Daniel Leithinger, [office hours by appt.](https://calendly.com/daniel-leithinger/)<br> Professor Richard The, [office hours by appt.](mailto:ther@newschool.edu) <br>
 
 _Class Time:_ Thursday 2:20 PM MT -	04:50 PM MT / 4:20 PM EST - 6:50 PM EST <br>
-[Class Zoom](https://newschool.zoom.us/j/94390523430?pwd=Q0xXeDh2NldCT1VzR1hPYjgrUkQzdz09) <br>
-[Class Slack]() <br>
+[Class Zoom](https://newschool.zoom.us/j/94390523430?pwd=Q0xXeDh2NldCT1VzR1hPYjgrUkQzdz09)<br>
+[Class Slack](https://join.slack.com/t/elasticspacesfall2020/shared_invite/zt-gxav8uzl-U82gfCu9wLnZfWhIfOsy8g) <br>
 
 ## Overview
 
