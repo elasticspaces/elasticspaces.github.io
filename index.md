@@ -24,7 +24,7 @@ The global pandemic of 2020 is a stark reminder of the essential human need to c
 ||Class| Reading Due | Assignment Due |
 |--|--|--|--|
 | 8/27 | **Boulder Pre-Course Meeting** | | |
-| 9/3 | **Hack the Remote** | |Hack the Remote |
+| 9/3 | **Hack the Remote** [Slides](https://docs.google.com/presentation/d/1ifwQzDny9J7YtHoZLIiEz5Tdroqlw86-WbjgNsmVxk0/edit?usp=sharing)| |Hack the Remote |
 | 9/10 | **Project 1: Protocol** |[Protocol – Alexander Galloway](https://drive.google.com/file/d/1RRuc6sDgTbcmZSIAXo71ynRJ5iz7A5_w/view?usp=sharing) | Protocol Part I |
 | 9/17 | **Project 1: Protocol** | [Alone Together – Sherry Turkle](https://drive.google.com/file/d/1TSfV57eJJPVYw4dRlmRrQZE4f3U_NYAP/view?usp=sharing) |  Protocol Part II |
 | 9/24 | **Project 1: Protocol** |[For Certain Tasks, the Cortex Still Beats the CPU	Clive Thompson](https://www.wired.com/2007/06/ff-humancomp/) | Protocol Part III|
