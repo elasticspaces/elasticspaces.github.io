@@ -3,7 +3,7 @@ body {
 	font-family: 'Roboto Mono', monospace;
   padding-top: 50px;
   padding-bottom: 20px;
-	background-color: #6fa8dc;
+	background-color: #B5D9F4;
 }
 .navbar-nav {
 	font-size: 14px;
@@ -69,7 +69,8 @@ table.overview {
 }
 
 .container img{
-	object-fit: cover;
+	/* object-fit: cover; */
+	max-width:100%;
 }
 
 
