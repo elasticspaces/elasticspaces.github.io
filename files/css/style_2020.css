@@ -79,8 +79,8 @@ table.overview {
 .dropdown-menu {
 	background-color: #CBE5F7;
 }
-tr, td{
-	border: none;
+td{
+	border: 0;
 }
 
 h1, h2, h3 {
