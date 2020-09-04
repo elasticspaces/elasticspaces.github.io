@@ -3,8 +3,7 @@ layout: layout_2020
 ---
 
 ![useful image](/files/images/FSP0026.jpg)
-
-[Gianni Colombo - Spazio Elastico](http://www.reprogrammed-art.cc/library/104/Spazio-elastico)
+<sup>[Gianni Colombo - Spazio Elastico](http://www.reprogrammed-art.cc/library/104/Spazio-elastico)</sup>
 
 # Elastic Spaces
 
