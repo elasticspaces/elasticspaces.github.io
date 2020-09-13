@@ -24,19 +24,19 @@ The global pandemic of 2020 is a stark reminder of the essential human need to c
 ||Class| Reading Due | Assignment Due |
 |--|--|--|--|
 | 8/27 | **Boulder Pre-Course Meeting** | | |
-| 9/3 | **Project 1: Hack the Remote** [Slides](https://docs.google.com/presentation/d/1ifwQzDny9J7YtHoZLIiEz5Tdroqlw86-WbjgNsmVxk0/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1eo06-mUXCugz-plLW91mx_LXaOuxRN_9/view?usp=sharing)| |Hack the Remote |
-| 9/10 | **Project 2: Protocol** [Slides](https://docs.google.com/presentation/d/1qTGAQUcXnaeNu-GAWlxDAw_bS5RZ3hDOhGqrIvA5viM/edit?usp=sharing) |[Protocol – Alexander Galloway](https://drive.google.com/file/d/1RRuc6sDgTbcmZSIAXo71ynRJ5iz7A5_w/view?usp=sharing) | Protocol Part I |
-| 9/17 | **Project 2: Protocol** | [Alone Together – Sherry Turkle](https://drive.google.com/file/d/1TSfV57eJJPVYw4dRlmRrQZE4f3U_NYAP/view?usp=sharing) |  Protocol Part II |
-| 9/24 | **Project 2: Protocol** |[For Certain Tasks, the Cortex Still Beats the CPU	Clive Thompson](https://www.wired.com/2007/06/ff-humancomp/) | Protocol Part III|
-| 10/1 | **Project 2: Protocol** | --|  Protocol Final |
-| 10/8 | **Project 3: Remote Senses** | [See yourself Sensing - Madeline Schwartzman](https://drive.google.com/file/d/17B2jhGivurpM3n0A9JGZoN1RsMLm5elv/view?usp=sharing)  |Remote Senses Part I  |
-| 10/15 | **Project 3: Remote Senses** | [Tangible Interfaces for Remote Collaboration and Communication.](https://trackr-media.tangiblemedia.org/publishedmedia/Papers/315-Tangible%20Interfaces%20for%20Remote/Published/PDF)|Remote Senses Part II |
-| 10/22 | **Project 3: Remote Senses** | |Remote Senses Part III  |
-| 10/29 | **Project 3: Remote Senses** |-- |Remote Senses Final |
-| 11/5 | **Project 4: Elastic Spaces** | | Elastic Spaces Part I |
-| 11/12 | **Project 4: Elastic Spaces** | |  Elastic Spaces Part II|
-| 11/19 | **Project 4: Elastic Spaces** | | Elastic Spaces Part III|
+| 9/3 | **Project 1: Hack the Remote** [Slides](https://docs.google.com/presentation/d/1ifwQzDny9J7YtHoZLIiEz5Tdroqlw86-WbjgNsmVxk0/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1eo06-mUXCugz-plLW91mx_LXaOuxRN_9/view?usp=sharing)| | [Complete Signup Form](https://docs.google.com/forms/d/1Cs4LDdiURAcLXKAGGcJahjg8icpVouP2acm8vByIVp8/edit?usp=sharing) |
+| 9/10 | **Project 2: Protocol** [Slides](https://docs.google.com/presentation/d/1qTGAQUcXnaeNu-GAWlxDAw_bS5RZ3hDOhGqrIvA5viM/edit?usp=sharing) |[Protocol – Alexander Galloway](https://drive.google.com/file/d/1RRuc6sDgTbcmZSIAXo71ynRJ5iz7A5_w/view?usp=sharing) | [Hack the Remote](https://elasticspaces.github.io/pages/a1.html) |
+| 9/17 | **Project 2: Protocol** | [Alone Together – Sherry Turkle](https://drive.google.com/file/d/1TSfV57eJJPVYw4dRlmRrQZE4f3U_NYAP/view?usp=sharing) | [Protocol Part I](https://elasticspaces.github.io/pages/a2.html) |
+| 9/24 | **Project 2: Protocol** |[For Certain Tasks, the Cortex Still Beats the CPU	Clive Thompson](https://www.wired.com/2007/06/ff-humancomp/) | [Protocol Part II](https://elasticspaces.github.io/pages/a2.html) |
+| 10/1 | **Project 2: Protocol** | --| [Protocol Part III](https://elasticspaces.github.io/pages/a2.html)|
+| 10/8 | **Project 3: Remote Senses** | [See yourself Sensing - Madeline Schwartzman](https://drive.google.com/file/d/17B2jhGivurpM3n0A9JGZoN1RsMLm5elv/view?usp=sharing) |  [Protocol Final](https://elasticspaces.github.io/pages/a2.html)|
+| 10/15 | **Project 3: Remote Senses** | [Tangible Interfaces for Remote Collaboration and Communication.](https://trackr-media.tangiblemedia.org/publishedmedia/Papers/315-Tangible%20Interfaces%20for%20Remote/Published/PDF)| [Remote Senses Part I](https://elasticspaces.github.io/pages/a3.html) |
+| 10/22 | **Project 3: Remote Senses** | | [Remote Senses Part II](https://elasticspaces.github.io/pages/a3.html) |
+| 10/29 | **Project 3: Remote Senses** |-- | [Remote Senses Part III](https://elasticspaces.github.io/pages/a3.html) |
+| 11/5 | **Project 4: Elastic Spaces** | | [Remote Senses Final](https://elasticspaces.github.io/pages/a3.html) |
+| 11/12 | **Project 4: Elastic Spaces** | | [Elastic Spaces Part I](https://elasticspaces.github.io/pages/a4.html) |
+| 11/19 | **Project 4: Elastic Spaces** | | [Elastic Spaces Part II](https://elasticspaces.github.io/pages/a4.html) |
 | 11/26 | _Fall Break, no class._|--|--|
-| 12/3 | **Project 4: Elastic Spaces** |-- | Elastic Spaces Final|
-| 12/10 |**Document**|--|Final documentation|
-| 12/17 |--|--|--|
+| 12/3 | **Project 4: Elastic Spaces** |-- | [Elastic Spaces Part III](https://elasticspaces.github.io/pages/a4.html) |
+| 12/10 |**Document**|--| [Elastic Spaces Final](https://elasticspaces.github.io/pages/a4.html) |
+| 12/17 |--|--| [Elastic Spaces Final Documentation](https://elasticspaces.github.io/pages/a4.html) |
