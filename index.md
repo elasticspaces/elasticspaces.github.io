@@ -33,7 +33,7 @@ The global pandemic of 2020 is a stark reminder of the essential human need to c
 | 10/15 | **Project 3: Remote Senses** | [Tangible Interfaces for Remote Collaboration and Communication.](https://trackr-media.tangiblemedia.org/publishedmedia/Papers/315-Tangible%20Interfaces%20for%20Remote/Published/PDF)| [Remote Senses Part I](https://elasticspaces.github.io/pages/a3.html) |
 | 10/22 | **Project 3: Remote Senses** | | [Remote Senses Part II](https://elasticspaces.github.io/pages/a3.html) |
 | 10/29 | **Project 3: Remote Senses** |-- | [Remote Senses Part III](https://elasticspaces.github.io/pages/a3.html) |
-| 11/5 | **Project 4: Elastic Spaces** | | [Remote Senses Final](https://elasticspaces.github.io/pages/a3.html) |
+| 11/5 | **Project 4: Elastic Spaces** Guest Lecture by [Jinha Lee](http://www.leejinha.com), co-founder of [Spatial](https://spatial.io) | | [Remote Senses Final](https://elasticspaces.github.io/pages/a3.html) |
 | 11/12 | **Project 4: Elastic Spaces** | | [Elastic Spaces Part I](https://elasticspaces.github.io/pages/a4.html) |
 | 11/19 | **Project 4: Elastic Spaces** | | [Elastic Spaces Part II](https://elasticspaces.github.io/pages/a4.html) |
 | 11/26 | _Fall Break, no class._|--|--|
