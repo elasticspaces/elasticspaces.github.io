@@ -37,6 +37,6 @@ The global pandemic of 2020 is a stark reminder of the essential human need to c
 | 11/12 | **Project 4: Elastic Spaces** [Slides](https://docs.google.com/presentation/d/1qUYmVB47rhRdKIkG5ix9hB1rKG1X2tiAVMpppNr6aXg/edit?usp=sharing) Guest Lecture by [Jinha Lee](http://www.leejinha.com/) co-founder of [Spatial.io](https://spatial.io/) | Watch [Hito Steyerl: Bubble Vision](https://youtu.be/T1Qhy0_PCjs?t=404) and leave a comment in the Slack | [Elastic Spaces Part I](https://elasticspaces.github.io/pages/a4.html) |
 | 11/19 | **Project 4: Elastic Spaces** | | [Elastic Spaces Part II](https://elasticspaces.github.io/pages/a4.html) |
 | 11/26 | _Fall Break, no class._|--|--|
-| 12/3 | **Project 4: Elastic Spaces** |-- | [Elastic Spaces Part III](https://elasticspaces.github.io/pages/a4.html) |
+| 12/3 | **Project 4: Elastic Spaces**  [Elastic Spaces: Final Deck](https://docs.google.com/presentation/d/1Q22MwrXaTlWpP0Ydrf3AktjlhsUnDr-TDjVuv7Xg7iE/edit?usp=sharing) |-- | [Elastic Spaces Part III](https://elasticspaces.github.io/pages/a4.html) |
 | 12/10 |**Document**|--| [Elastic Spaces Final](https://elasticspaces.github.io/pages/a4.html) |
 | 12/17 |--|--| [Elastic Spaces Final Documentation](https://elasticspaces.github.io/pages/a4.html) |
